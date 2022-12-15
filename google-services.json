@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "737846334294",
+    "project_id": "moneymatters-5096b",
+    "storage_bucket": "moneymatters-5096b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:737846334294:android:01f9a776963b6f7582fcf7",
+        "android_client_info": {
+          "package_name": "com.okok.moneymatters"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "737846334294-vch48f5dj9l9mjf5se12mmhg7on7vrlc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.okok.moneymatters",
+            "certificate_hash": "14a7149c545d44118c75a3981f8ccdf2c96eff10"
+          }
+        },
+        {
+          "client_id": "737846334294-nn2cv4ic9vieo8tvf5tehc9ef54htdb0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBE6laaE6fd0H7xe8sG0Z3Vr-EKEulDKiE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "737846334294-nn2cv4ic9vieo8tvf5tehc9ef54htdb0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
